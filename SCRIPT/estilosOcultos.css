@@ -1,0 +1,16 @@
+.nom-incorrecto{
+    border-color: red;
+};
+
+.nom-correcto{
+    border-color: green;
+}
+
+.warning{
+    display: none;
+}
+
+.error{
+    display: block;
+    color: red;
+}
